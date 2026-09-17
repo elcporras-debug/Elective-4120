@@ -1,4 +1,4 @@
-# Elective-4120
+# GE-4120, PORRAS
 # Laboratory Projects
 
 ## Introduction
