@@ -1,4 +1,4 @@
-# GE-4120, PORRAS
+# GE-4120, Edd Porras
 # Laboratory Projects
 
 ## Introduction
