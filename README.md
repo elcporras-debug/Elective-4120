@@ -30,7 +30,7 @@ This repository serves as a centralized hub highlighting my creative and technic
   <tr>
     <td align="center" width="25%" valign="top">
 
-![Activity 1](https://img.shields.io/badge/ACTIVITY-01-B5CDA5?style=for-the-badge&labelColor=EEF4E8)
+![Activity 1]
 
 ### 🌿 Activity 1
 
@@ -38,7 +38,7 @@ This repository serves as a centralized hub highlighting my creative and technic
 
 Applying alignment, contrast, whitespace, and layout principles to create clear and effective presentations.
 
-![Sage Green](https://img.shields.io/badge/SAGE%20GREEN-B5CDA5?style=flat-square)
+![Sage Green]
 
 <a href="./Activity%201:%20Presentation%20Design%20Principles/">
   <strong>🍏 View Activity</strong>
