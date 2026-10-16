@@ -1,73 +1,122 @@
 
-# 🌿 Elective 4120 | Laboratory Projects
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ELECTIVE-4120-B5CDA5?style=for-the-badge&labelColor=EAF1E5" alt="Elective 4120" />
-  <img src="https://img.shields.io/badge/DIGITAL-CREATIVITY-F2C6D4?style=for-the-badge&labelColor=FFF0F4" alt="Digital Creativity" />
-</p>
+# 🌿 GE 4120: 21ST CENTURY IT SKILLS 🌿
 
-<p align="center">
-  <em>Learning, creating, and growing one skill at a time.</em>
-</p>
+### 🍃 My Digital Portfolio
 
----
+*Creativity • Technology • Growth*
 
-## 🌱 About This Portfolio
+![Theme](https://img.shields.io/badge/Theme-Pistachio%20Green-B5CDA5?style=for-the-badge&labelColor=EEF4E8)
+![Course](https://img.shields.io/badge/Course-GE%204120-78966B?style=for-the-badge&labelColor=EEF4E8)
 
-Hi! I'm **Edd Lawrence C. Porras**.
+🌱 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌱
 
-Welcome to my Elective 4120 portfolio! This repository contains my laboratory activities and projects focused on presentation design, color theory, typography, and digital content creation.
-
-Each activity represents an opportunity to improve my creativity, explore new tools, and develop practical digital skills.
-
-## 🎨 Laboratory Activities
-
-### 🟢 Activity 1 — Presentation Design Principles
-
-![Sage Green](https://img.shields.io/badge/Presentation_Design-B5CDA5?style=flat-square)
-
-Learn about the basic principles of creating clear, organized, and engaging presentations.
-
-[**View Activity 1 →**](./Activity%201:%20Presentation%20Design%20Principles/)
+</div>
 
 ---
 
-### 🌸 Activity 2 — Color Palette and Typography
+## 🌱 About the Portfolio
 
-![Pastel Pink](https://img.shields.io/badge/Colors_&_Typography-F2C6D4?style=flat-square)
+Welcome to my digital showcase! ✨
 
-Explore color combinations, typography, readability, and visual consistency in design.
-
-[**View Activity 2 →**](./Activity%202:%20Color%20Palette%20and%20Typography/)
+This repository serves as a centralized hub highlighting my creative and technical growth in **GE 4120: 21st Century IT Skills**. It contains my required course deliverables, including activity outputs, design documentation, mini projects, and assignments completed throughout the term.
 
 ---
 
-### 🩵 Activity 3 — Social Media Infographics and Mini Project Documentation
+## 🍃 My Showcase
 
-![Pastel Blue](https://img.shields.io/badge/Infographics_&_Documentation-B8DDEB?style=flat-square)
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top">
 
-Create informative visual content and document a mini project using digital design skills.
+![Activity 1](https://img.shields.io/badge/ACTIVITY-01-B5CDA5?style=for-the-badge&labelColor=EEF4E8)
 
-[**View Activity 3 →**](./Activity%203:%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation/)
+### 🌿 Activity 1
+
+#### Presentation Design Principles
+
+Applying alignment, contrast, whitespace, and layout principles to create clear and effective presentations.
+
+![Sage Green](https://img.shields.io/badge/SAGE%20GREEN-B5CDA5?style=flat-square)
+
+<a href="./Activity%201:%20Presentation%20Design%20Principles/">
+  <strong>🍏 View Activity</strong>
+</a>
+
+</td>
+    <td align="center" width="25%" valign="top">
+
+![Activity 2](https://img.shields.io/badge/ACTIVITY-02-F2C6D4?style=for-the-badge&labelColor=FFF0F5)
+
+### 🌸 Activity 2
+
+#### Color Palette & Typography
+
+Exploring color theory, accessible color combinations, and font pairing for effective visual storytelling.
+
+![Pastel Pink](https://img.shields.io/badge/PASTEL%20PINK-F2C6D4?style=flat-square)
+
+<a href="./Activity%202:%20Color%20Palette%20and%20Typography/">
+  <strong>🌷 View Activity</strong>
+</a>
+
+</td>
+    <td align="center" width="25%" valign="top">
+
+![Activity 3](https://img.shields.io/badge/ACTIVITY-03-B8DDEB?style=for-the-badge&labelColor=EDF8FC)
+
+### 🩵 Activity 3
+
+#### Social Media Infographics & Project Documentation
+
+Communicating real-world issues and proposed technology solutions through infographics and project documentation.
+
+![Pastel Blue](https://img.shields.io/badge/PASTEL%20BLUE-B8DDEB?style=flat-square)
+
+<a href="./Activity%203:%20Social%20Media%20Infographics%20and%20Project%20Documentation/">
+  <strong>🩵 View Activity</strong>
+</a>
+
+</td>
+    <td align="center" width="25%" valign="top">
+
+![Activity 4](https://img.shields.io/badge/ACTIVITY-04-E6E9A8?style=for-the-badge&labelColor=F8F9E8)
+
+### 🍋 Activity 4
+
+#### Google Sheets Report
+
+Demonstrating spreadsheet skills through data organization, formulas, formatting, and report preparation using Google Sheets.
+
+![Pistachio Yellow](https://img.shields.io/badge/PISTACHIO%20YELLOW-E6E9A8?style=flat-square)
+
+<a href="./Activity%204:%20Google%20Sheets%20Report/">
+  <strong>🍋 View Activity</strong>
+</a>
+
+</td>
+  </tr>
+</table>
 
 ---
 
-## ✨ What I've Learned
+## 🌼 Upcoming Deliverables
 
-- Applying basic presentation design principles
-- Choosing suitable colors and typography
-- Creating organized and readable visual content
-- Developing creativity and digital communication skills
-- Documenting and presenting project outputs
+> 🌱 Outputs and deliverables for the Prefinal period will be updated soon. Stay tuned!
 
-## 🌼 Closing Note
+---
 
-This portfolio reflects my progress as I continue learning and improving my digital skills through each activity.
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ONE_STEP_AT_A_TIME-E6E9A8?style=for-the-badge&labelColor=F5F6E8" alt="One step at a time" />
-</p>
+🌿 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌿
 
-<p align="center">
-  <sub>Made with 🌿 by Edd Lawrence C. Porras · 2026</sub>
-</p>
+### ✨ Growth, Creativity, and Progress through Technology ✨
+
+**GE 4120 | 21st Century IT Skills**
+
+© 2026 Edd Lawrence C. Porras
+
+*Growing one skill at a time.* 🍃
+
+</div>
