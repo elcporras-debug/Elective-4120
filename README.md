@@ -40,8 +40,6 @@ Applying alignment, contrast, whitespace, and layout principles to create clear 
 
 ![Sage Green](https://img.shields.io/badge/SAGE_GREEN-B5CDA5?style=flat-square)
 
-<a href="./Activity%201:%20Presentation%20Design%20Principles/"><strong>🌱 View Activity →</strong></a>
-
 </td>
 <td align="center" width="25%" valign="top">
 
@@ -54,8 +52,6 @@ Applying alignment, contrast, whitespace, and layout principles to create clear 
 Exploring color theory, accessible color combinations, and font pairing for effective visual storytelling.
 
 ![Mint Green](https://img.shields.io/badge/MINT_GREEN-A8C99A?style=flat-square)
-
-<a href="./Activity%202:%20Color%20Palette%20and%20Typography/"><strong>🍃 View Activity →</strong></a>
 
 </td>
 <td align="center" width="25%" valign="top">
@@ -70,8 +66,6 @@ Communicating real-world issues and proposed technology solutions through infogr
 
 ![Leaf Green](https://img.shields.io/badge/LEAF_GREEN-8FBC8F?style=flat-square)
 
-<a href="./Activity%203:%20Social%20Media%20Infographics%20and%20Project%20Documentation/"><strong>🌿 View Activity →</strong></a>
-
 </td>
 <td align="center" width="25%" valign="top">
 
@@ -84,8 +78,6 @@ Communicating real-world issues and proposed technology solutions through infogr
 Demonstrating spreadsheet skills through data organization, formulas, formatting, and report preparation using Google Sheets.
 
 ![Pistachio Green](https://img.shields.io/badge/PISTACHIO_GREEN-E0EAC4?style=flat-square)
-
-<a href="./Activity%204:%20Google%20Sheets%20Report/"><strong>🍏 View Activity →</strong></a>
 
 </td>
 </tr>
