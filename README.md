@@ -1,263 +1,93 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GE 4120 | Edd Porras Portfolio</title>
+<div align="center">
 
-  <style>
-    :root {
-      --dark: #14532d;
-      --forest: #166534;
-      --green: #22c55e;
-      --light: #dcfce7;
-      --background: #f0fdf4;
-      --white: #ffffff;
-      --text: #26382c;
-    }
+# 🌿 GE 4120: 21ST CENTURY IT SKILLS 🌿
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
+### 🍃 My Digital Portfolio
 
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      background: var(--background);
-      color: var(--text);
-      line-height: 1.7;
-    }
+*Creativity • Technology • Growth*
 
-    header {
-      padding: 65px 20px;
-      text-align: center;
-      color: white;
-      background: linear-gradient(135deg, #14532d, #166534, #22c55e);
-    }
+![Theme](https://img.shields.io/badge/Theme-Pistachio%20Green-B5CDA5?style=for-the-badge&labelColor=EEF4E8)
+![Course](https://img.shields.io/badge/Course-GE%204120-78966B?style=for-the-badge&labelColor=EEF4E8)
 
-    header h1 {
-      font-size: clamp(1.6rem, 4vw, 2.6rem);
-      margin-bottom: 12px;
-    }
+🌱 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌱
 
-    header p {
-      color: #dcfce7;
-    }
+</div>
 
-    .container {
-      width: min(1100px, 92%);
-      margin: auto;
-      padding: 40px 0;
-    }
+---
 
-    .section-title {
-      color: var(--dark);
-      margin-bottom: 20px;
-      border-left: 5px solid var(--green);
-      padding-left: 14px;
-    }
+## 🌱 About the Portfolio
 
-    .intro {
-      background: var(--white);
-      border: 1px solid #bbf7d0;
-      border-radius: 16px;
-      padding: 28px;
-      margin-bottom: 40px;
-      box-shadow: 0 5px 18px #14532d10;
-    }
+Welcome to my digital showcase! ✨
 
-    .intro h3 {
-      color: var(--forest);
-      margin-bottom: 10px;
-    }
+This repository serves as a centralized hub highlighting my creative and technical growth in **GE 4120: 21st Century IT Skills**. It contains my required course deliverables, including activity outputs, design documentation, mini projects, and assignments completed throughout the term.
 
-    .cards {
-      display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 22px;
-    }
+---
 
-    .card {
-      background: var(--white);
-      border: 1px solid #bbf7d0;
-      border-radius: 16px;
-      overflow: hidden;
-      box-shadow: 0 5px 18px #14532d10;
-      transition: transform 0.25s, box-shadow 0.25s;
-    }
+## 🍃 My Showcase
 
-    .card:hover {
-      transform: translateY(-6px);
-      box-shadow: 0 12px 25px #14532d20;
-    }
+<table>
+  <tr>
+    <td align="center" width="33%">
 
-    .card-top {
-      background: var(--light);
-      color: var(--dark);
-      padding: 25px 20px;
-      min-height: 130px;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      text-align: center;
-    }
+### 🌿 Activity 1
 
-    .card-top h3 {
-      font-size: 1.1rem;
-      margin-top: 5px;
-    }
+#### Presentation Design Principles
 
-    .card-content {
-      padding: 22px;
-    }
+Applying alignment, contrast, whitespace, and layout principles to create clear and effective presentations.
 
-    .card-content p {
-      font-size: 0.95rem;
-      margin-bottom: 20px;
-    }
+<a href="./Activity%201:%20Presentation%20Design%20Principles/">
+  <strong>🍏 View Activity</strong>
+</a>
 
-    .link {
-      display: inline-block;
-      text-decoration: none;
-      background: var(--forest);
-      color: white;
-      padding: 10px 16px;
-      border-radius: 8px;
-      font-weight: bold;
-      font-size: 0.9rem;
-    }
+</td>
+    <td align="center" width="33%">
 
-    .link:hover {
-      background: var(--dark);
-    }
+### 🌱 Activity 2
 
-    .notice {
-      margin-top: 40px;
-      padding: 25px;
-      border-radius: 14px;
-      background: var(--light);
-      border-left: 5px solid var(--green);
-      text-align: center;
-      color: var(--dark);
-    }
+#### Color Palette & Typography
 
-    footer {
-      background: var(--dark);
-      color: white;
-      text-align: center;
-      padding: 28px 15px;
-      margin-top: 20px;
-    }
+Exploring color theory, accessible color combinations, and font pairing for effective visual storytelling.
 
-    footer p + p {
-      margin-top: 5px;
-    }
+<a href="./Activity%202:%20Color%20Palette%20and%20Typography/">
+  <strong>🍏 View Activity</strong>
+</a>
 
-    @media (max-width: 800px) {
-      .cards {
-        grid-template-columns: 1fr 1fr;
-      }
-    }
+</td>
+    <td align="center" width="33%">
 
-    @media (max-width: 550px) {
-      .cards {
-        grid-template-columns: 1fr;
-      }
+### 🍃 Activity 3
 
-      header {
-        padding: 45px 16px;
-      }
-    }
-  </style>
-</head>
+#### Social Media Infographics & Project Documentation
 
-<body>
-  <header>
-    <h1>🌿 GE 4120: 21ST CENTURY IT SKILLS 🌿</h1>
-    <p>My Digital Portfolio | Creativity • Technology • Growth</p>
-  </header>
+Communicating real-world issues and proposed technology solutions through infographics and project documentation.
 
-  <main class="container">
-    <section class="intro">
-      <h2 class="section-title">🌱 About the Portfolio</h2>
-      <h3>Welcome to My Digital Showcase!</h3>
-      <p>
-        This portfolio highlights my creative and technical growth in
-        GE 4120: 21st Century IT Skills. It contains my activity outputs,
-        design documentation, mini projects, and assignments completed
-        throughout the term.
-      </p>
-    </section>
+<a href="./Activity%203:%20Social%20Media%20Infographics%20and%20Project%20Documentation/">
+  <strong>🍏 View Activity</strong>
+</a>
 
-    <section>
-      <h2 class="section-title">🍃 My Showcase</h2>
+</td>
+  </tr>
+</table>
 
-      <div class="cards">
-        <article class="card">
-          <div class="card-top">
-            <span>🎨 Activity 1</span>
-            <h3>Presentation Design Principles</h3>
-          </div>
-          <div class="card-content">
-            <p>
-              Applying alignment, contrast, whitespace, and layout
-              principles to create clear and effective presentations.
-            </p>
-            <a class="link"
-               href="./Activity%201:%20Presentation%20Design%20Principles/">
-              View Activity
-            </a>
-          </div>
-        </article>
+---
 
-        <article class="card">
-          <div class="card-top">
-            <span>🎨 Activity 2</span>
-            <h3>Color Palette &amp; Typography</h3>
-          </div>
-          <div class="card-content">
-            <p>
-              Exploring color theory, accessible color combinations,
-              and font pairing for effective visual storytelling.
-            </p>
-            <a class="link"
-               href="./Activity%202:%20Color%20Palette%20and%20Typography/">
-              View Activity
-            </a>
-          </div>
-        </article>
+## 🌼 Upcoming Deliverables
 
-        <article class="card">
-          <div class="card-top">
-            <span>📱 Activity 3</span>
-            <h3>Social Media Infographics &amp; Project Documentation</h3>
-          </div>
-          <div class="card-content">
-            <p>
-              Presenting real-world issues and proposed technology
-              solutions through infographics and project documentation.
-            </p>
-            <a class="link"
-               href="./Activity%203:%20Social%20Media%20Infographics%20and%20Project%20Documentation/">
-              View Activity
-            </a>
-          </div>
-        </article>
-      </div>
-    </section>
+> 🌱 Outputs and deliverables for the Prefinal period will be updated soon. Stay tuned!
 
-    <section class="notice">
-      <h2>🌿 More Outputs Coming Soon!</h2>
-      <p>Prefinal deliverables will be added soon. Stay tuned!</p>
-    </section>
-  </main>
+---
 
-  <footer>
-    <p><strong>✨ Growth, Creativity, and Progress through Technology ✨</strong></p>
-    <p>GE 4120 | 21st Century IT Skills</p>
-    <p>© 2026 Edd Lawrence C. Porras</p>
-  </footer>
-</body>
-</html>
+<div align="center">
+
+🌿 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌿
+
+### ✨ Growth, Creativity, and Progress through Technology ✨
+
+**GE 4120 | 21st Century IT Skills**
+
+© 2026 Edd Lawrence C. Porras
+
+*Growing one skill at a time.* 🍃
+
+</div>
