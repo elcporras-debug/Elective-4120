@@ -1,1 +1,1 @@
-
+Through this activity, I learned the basics of website creation, including organizing content, designing layouts, and using different web development tools. One challenge I encountered was making the website both functional and visually appealing while ensuring that the information was properly presented. I overcame this by exploring the available tools, making adjustments, and testing the website. I can apply these skills in creating educational websites, especially those that promote health awareness and provide useful information to the community.
