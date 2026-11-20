@@ -8,6 +8,7 @@
 *Creativity • Technology • Growth*
 
 ![Theme](https://img.shields.io/badge/THEME-PISTACHIO_GREEN-B5CDA5?style=for-the-badge&labelColor=EEF4E8)
+
 ![Course](https://img.shields.io/badge/COURSE-GE_4120-78966B?style=for-the-badge&labelColor=EEF4E8)
 
 🌱 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌱
@@ -41,6 +42,7 @@ Applying alignment, contrast, whitespace, and layout principles to create clear 
 ![Sage Green](https://img.shields.io/badge/SAGE_GREEN-B5CDA5?style=flat-square)
 
 </td>
+
 <td align="center" width="25%" valign="top">
 
 ![Activity 2](https://img.shields.io/badge/ACTIVITY-02-A8C99A?style=for-the-badge&labelColor=EEF4E8)
@@ -54,6 +56,7 @@ Exploring color theory, accessible color combinations, and font pairing for effe
 ![Mint Green](https://img.shields.io/badge/MINT_GREEN-A8C99A?style=flat-square)
 
 </td>
+
 <td align="center" width="25%" valign="top">
 
 ![Activity 3](https://img.shields.io/badge/ACTIVITY-03-8FBC8F?style=for-the-badge&labelColor=EEF4E8)
@@ -67,6 +70,7 @@ Communicating real-world issues and proposed technology solutions through infogr
 ![Leaf Green](https://img.shields.io/badge/LEAF_GREEN-8FBC8F?style=flat-square)
 
 </td>
+
 <td align="center" width="25%" valign="top">
 
 ![Activity 4](https://img.shields.io/badge/ACTIVITY-04-E0EAC4?style=for-the-badge&labelColor=EEF4E8)
@@ -81,13 +85,78 @@ Demonstrating spreadsheet skills through data organization, formulas, formatting
 
 </td>
 </tr>
+
+<tr>
+<td align="center" width="25%" valign="top">
+
+![Activity 5](https://img.shields.io/badge/ACTIVITY-05-B5CDA5?style=for-the-badge&labelColor=EEF4E8)
+
+### 🤖 Activity 5
+
+**AI Tools**
+
+Exploring and utilizing artificial intelligence tools to support productivity, creativity, information gathering, and digital learning.
+
+![Sage Green](https://img.shields.io/badge/SAGE_GREEN-B5CDA5?style=flat-square)
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+![Activity 6](https://img.shields.io/badge/ACTIVITY-06-A8C99A?style=for-the-badge&labelColor=EEF4E8)
+
+### 💻 Activity 6
+
+**Making a Website**
+
+Applying web design and development skills to create a functional and visually appealing website using HTML, CSS, and other web technologies.
+
+![Mint Green](https://img.shields.io/badge/MINT_GREEN-A8C99A?style=flat-square)
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+![Activity 7](https://img.shields.io/badge/ACTIVITY-07-8FBC8F?style=for-the-badge&labelColor=EEF4E8)
+
+### 📄 Activity 7
+
+**Resume Generating**
+
+Creating a professional resume by organizing personal information, educational background, skills, and qualifications using digital tools.
+
+![Leaf Green](https://img.shields.io/badge/LEAF_GREEN-8FBC8F?style=flat-square)
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+🌿
+
+### ✨ More to Come
+
+**Continuous Learning**
+
+Continuing to develop digital literacy, creativity, and technical skills through future activities and projects.
+
+![Pistachio Green](https://img.shields.io/badge/LEARNING-E0EAC4?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🌼 Upcoming Deliverables
+## 🌼 Learning Highlights
 
-> 🌱 Outputs and deliverables for the Prefinal period will be updated soon. Stay tuned!
+Through these activities, I continue to develop my skills in:
+
+- 🎨 Digital design and visual communication
+- 📊 Data organization and spreadsheet management
+- 🤖 Artificial intelligence and digital productivity
+- 💻 Website design and development
+- 📄 Professional document and resume creation
+- 🌱 Digital literacy and responsible technology use
 
 ---
 
