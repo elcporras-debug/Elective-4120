@@ -5,10 +5,10 @@
 
 ### 🍃 Nursing Student | Lifelong Learner | Technology Enthusiast
 
-<img src="./assets/profile-photo.jpeg" width="180" alt="Edd Lawrence Profile Photo">
 
 
-![Course](https://img.shields.io/badge/COURSE-BSN-78966B?style=for-the-badge&labelColor=EEF4E8)
+
+![Course](https://img.shields.io/badge/COURSE-BSN4D-78966B?style=for-the-badge&labelColor=EEF4E8)
 
 🌱 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌱
 
@@ -18,7 +18,7 @@
 
 ## 🌱 About Me
 
-Hi! I'm **Edd Lawrence C. Porras**, a **third-year Bachelor of Science in Nursing (BSN)** student at **Ateneo de Davao University**.
+Hi! I'm **Edd Lawrence C. Porras**, a **fourth-year Bachelor of Science in Nursing (BSN)** student at **Ateneo de Davao University**.
 
 I am passionate about learning, exploring new technologies, and developing skills that can help me grow both academically and personally. As a nursing student, I am interested in healthcare, patient care, and how technology can improve the delivery of healthcare services.
 
