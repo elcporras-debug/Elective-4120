@@ -135,13 +135,7 @@ Creating a professional resume that highlights personal qualifications, educatio
 
 🌿
 
-### ✨ Portfolio
 
-**Learning Through Technology**
-
-Showcasing creativity, practical skills, and continuous learning throughout the course.
-
-![Pistachio Green](https://img.shields.io/badge/PISTACHIO_GREEN-E0EAC4?style=flat-square)
 
 </td>
 
