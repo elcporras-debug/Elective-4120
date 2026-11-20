@@ -27,8 +27,6 @@ This repository serves as a centralized hub highlighting my creative and technic
 
 ## 🍃 My Showcase
 
-## 🍃 My Showcase
-
 <table>
 <tr>
 
