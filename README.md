@@ -133,14 +133,7 @@ Creating a professional resume that highlights personal qualifications, educatio
 
 <td align="center" width="25%" valign="top">
 
-🌿
 
-
-
-</td>
-
-</tr>
-</table>
 
 ---
 
