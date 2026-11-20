@@ -1,11 +1,12 @@
 
+
 <div align="center">
 
 # 🌿 HELLO, I'M EDD LAWRENCE! 🌿
 
 ### 🍃 Nursing Student | Lifelong Learner | Technology Enthusiast
 
-<img src="YOUR_PROFILE_PHOTO_URL" width="180" height="180" style="border-radius:50%;" alt="Edd Lawrence Profile Photo">
+<img src="./assets/profile-photo.jpeg" width="180" alt="Edd Lawrence Profile Photo">
 
 ![Profile](https://img.shields.io/badge/PROFILE-ABOUT_ME-B5CDA5?style=for-the-badge&labelColor=EEF4E8)
 ![Course](https://img.shields.io/badge/COURSE-BSN-78966B?style=for-the-badge&labelColor=EEF4E8)
