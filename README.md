@@ -27,6 +27,8 @@ This repository serves as a centralized hub highlighting my creative and technic
 
 ## 🍃 My Showcase
 
+## 🍃 My Showcase
+
 <table>
 <tr>
 
@@ -131,9 +133,8 @@ Creating a professional resume that highlights personal qualifications, educatio
 
 </td>
 
-<td align="center" width="25%" valign="top">
-
-
+</tr>
+</table>
 
 ---
 
