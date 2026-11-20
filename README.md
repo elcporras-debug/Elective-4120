@@ -28,7 +28,6 @@ This repository serves as a centralized hub highlighting my creative and technic
 ## 🍃 My Showcase
 
 <table>
-
 <tr>
 
 <td align="center" width="25%" valign="top">
@@ -88,7 +87,6 @@ Demonstrating spreadsheet skills through data organization, formulas, formatting
 </td>
 
 </tr>
-
 <tr>
 
 <td align="center" width="25%" valign="top">
@@ -99,7 +97,7 @@ Demonstrating spreadsheet skills through data organization, formulas, formatting
 
 **AI Tools**
 
-Exploring and utilizing artificial intelligence tools to support productivity, creativity, information processing, and digital learning.
+Exploring artificial intelligence tools and their practical applications in improving productivity, creativity, and digital tasks.
 
 ![Sage Green](https://img.shields.io/badge/SAGE_GREEN-B5CDA5?style=flat-square)
 
@@ -113,7 +111,7 @@ Exploring and utilizing artificial intelligence tools to support productivity, c
 
 **Making a Website**
 
-Applying web design and development skills to create a functional and visually appealing website using digital tools and technologies.
+Applying web development skills to create a functional and visually appealing website using design principles and web technologies.
 
 ![Mint Green](https://img.shields.io/badge/MINT_GREEN-A8C99A?style=flat-square)
 
@@ -127,14 +125,27 @@ Applying web design and development skills to create a functional and visually a
 
 **Resume Generating**
 
-Creating a professional resume by organizing personal information, educational background, skills, and experiences into a clear and presentable format.
+Creating a professional resume that highlights personal qualifications, educational background, skills, and relevant experiences.
 
 ![Leaf Green](https://img.shields.io/badge/LEAF_GREEN-8FBC8F?style=flat-square)
 
 </td>
 
-</tr>
+<td align="center" width="25%" valign="top">
 
+🌿
+
+### ✨ Portfolio
+
+**Learning Through Technology**
+
+Showcasing creativity, practical skills, and continuous learning throughout the course.
+
+![Pistachio Green](https://img.shields.io/badge/PISTACHIO_GREEN-E0EAC4?style=flat-square)
+
+</td>
+
+</tr>
 </table>
 
 ---
