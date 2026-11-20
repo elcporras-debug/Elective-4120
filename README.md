@@ -21,7 +21,7 @@
 
 Welcome to my digital showcase! ✨
 
-This repository serves as a centralized hub highlighting my creative and technical growth in **GE 4120: 21st Century IT Skills**. It contains my course deliverables, including activity outputs, design documentation, mini projects, and assignments completed throughout the term.
+This repository serves as a centralized hub highlighting my creative and technical growth in **GE 4120: 21st Century IT Skills**. It contains my course deliverables, including activity outputs, design documentation, digital projects, and assignments completed throughout the term.
 
 ---
 
@@ -29,6 +29,7 @@ This repository serves as a centralized hub highlighting my creative and technic
 
 <table>
 <tr>
+
 <td align="center" width="25%" valign="top">
 
 ![Activity 1](https://img.shields.io/badge/ACTIVITY-01-B5CDA5?style=for-the-badge&labelColor=EEF4E8)
@@ -84,9 +85,11 @@ Demonstrating spreadsheet skills through data organization, formulas, formatting
 ![Pistachio Green](https://img.shields.io/badge/PISTACHIO_GREEN-E0EAC4?style=flat-square)
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="25%" valign="top">
 
 ![Activity 5](https://img.shields.io/badge/ACTIVITY-05-B5CDA5?style=for-the-badge&labelColor=EEF4E8)
@@ -95,7 +98,7 @@ Demonstrating spreadsheet skills through data organization, formulas, formatting
 
 **AI Tools**
 
-Exploring and utilizing artificial intelligence tools to support productivity, creativity, information gathering, and digital learning.
+Exploring and utilizing artificial intelligence tools to enhance productivity, creativity, research, and digital learning.
 
 ![Sage Green](https://img.shields.io/badge/SAGE_GREEN-B5CDA5?style=flat-square)
 
@@ -109,7 +112,7 @@ Exploring and utilizing artificial intelligence tools to support productivity, c
 
 **Making a Website**
 
-Applying web design and development skills to create a functional and visually appealing website using HTML, CSS, and other web technologies.
+Applying web development skills to create a functional and visually appealing website using digital tools and technologies.
 
 ![Mint Green](https://img.shields.io/badge/MINT_GREEN-A8C99A?style=flat-square)
 
@@ -131,32 +134,41 @@ Creating a professional resume by organizing personal information, educational b
 
 <td align="center" width="25%" valign="top">
 
-🌿
+![Final Project](https://img.shields.io/badge/FINAL_PROJECT-E0EAC4?style=for-the-badge&labelColor=EEF4E8)
 
-### ✨ More to Come
+### 🌟 Final Project
 
-**Continuous Learning**
+**Course Culminating Output**
 
-Continuing to develop digital literacy, creativity, and technical skills through future activities and projects.
+Showcasing the knowledge, creativity, and technical skills gained throughout GE 4120 through a final digital project.
 
-![Pistachio Green](https://img.shields.io/badge/LEARNING-E0EAC4?style=flat-square)
+![Pistachio Green](https://img.shields.io/badge/PISTACHIO_GREEN-E0EAC4?style=flat-square)
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🌼 Learning Highlights
+## 🌼 Course Highlights
 
-Through these activities, I continue to develop my skills in:
+Throughout this course, I developed skills and knowledge in:
 
 - 🎨 Digital design and visual communication
 - 📊 Data organization and spreadsheet management
-- 🤖 Artificial intelligence and digital productivity
-- 💻 Website design and development
-- 📄 Professional document and resume creation
-- 🌱 Digital literacy and responsible technology use
+- 🤖 Artificial intelligence and digital productivity tools
+- 💻 Website creation and basic web development
+- 📄 Professional resume preparation
+- 🌐 Digital creativity and technology integration
+
+---
+
+## 🌷 Reflections and Learning
+
+Each activity provided an opportunity to explore new technologies, improve my digital skills, and apply what I learned through practical outputs.
+
+This portfolio represents my progress, creativity, and continuous learning as a student in the digital age.
 
 ---
 
@@ -171,5 +183,7 @@ Through these activities, I continue to develop my skills in:
 © 2026 Edd Lawrence C. Porras
 
 *Growing one skill at a time.* 🍃
+
+🌿 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌿
 
 </div>
