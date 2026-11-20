@@ -179,26 +179,3 @@ Creating a professional resume that highlights personal qualifications, educatio
 
 These activities allowed me to explore different digital tools, improve my creativity, and apply technology to practical tasks.
 
----
-
-## 🌿 Academic Portfolio
-
-Currently exploring and developing my digital skills through **GE 4120: 21st Century IT Skills**.
-
-You can check out my course activities and projects in my digital portfolio repository.
-
-🌱 **Creativity • Technology • Growth**
-
----
-
-<div align="center">
-
-🌿 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌿
-
-### ✨ Learning Today, Growing Tomorrow ✨
-
-*One step at a time, one skill at a time.* 🍃
-
-© 2026 Edd Lawrence C. Porras
-
-</div>
