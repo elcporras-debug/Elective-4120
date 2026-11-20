@@ -1,1 +1,1 @@
-https://canva.link/9k2da0gl5brt0pv
+Through this activity, I learned how to organize data, use spreadsheet features, apply formulas, and create reports using Google Sheets. One challenge I encountered was understanding how to use certain formulas and properly format the data. I overcame this by practicing and exploring the different functions available in Google Sheets. These skills will be useful in organizing patient information, monitoring data, and preparing reports in my future nursing practice.
